@@ -4,4 +4,4 @@ compatibility_date = "2024-01-01"
 account_id = "049ff5e84ecf636b53b162cbb580aae6"
 [[kv_namespaces]]
 binding = "META_KV"
-id = ""
+id = "6da0ec4b7fcb4663bf87a36d630f94d5"
